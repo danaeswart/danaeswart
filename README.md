@@ -1,11 +1,48 @@
 <!-- ================= HEADER IMAGE ================= -->
-![Intro Banner](https://res.cloudinary.com/drieue552/image/upload/v1761691712/git_profile_intro_omtkxg.png)
+![Intro Banner](./assets/gitIntro.png)
 
-# 👋 Hi, I'm Danae Swart
-**Second-Year Development Student at Open Window**  
-Turning ideas into code, solving problems, and creating interactive experiences.
+
+# Hi, I'm Danae Swart
+Second-Year Development student at Open Window  
+Turning ideas into code, solving problems, and bringing creativity to life.  
 
 ---
+# The journey
+### 2025 Portfolio Projects
+
+#### Term 1
+- **Rooted** – Stress management and productivity app with plant-based gamification.  
+  [Repo](https://github.com/danaeswart/rooted)
+
+#### Term 2
+- **Pop Shop** – Interactive website for a pop music festival, designed with playful UX and animations.  
+  [Repo](https://github.com/danaeswart/pop-shop)
+
+- **Plant API Project** – Web app comparing plant data with interactive features and UI.  
+  [Repo](https://github.com/danaeswart/plant-api-project)
+
+#### Term 3
+- **Netflix-style Movie Project** – Movie info platform using API data, dynamic pages, and filtering.  
+  [Repo](https://github.com/danaeswart/netflix-clone)
+
+- **Focus App / Pace App** – Task scheduler and stress management app with gamified plant growth rewards.  
+  [Repo](https://github.com/danaeswart/pace-focus-app)
+
+#### Term 4
+- **DV200 Summative / Graphic Narrative** – Critical essay on Visual Culture with creative illustrations.  
+  [Repo](https://github.com/danaeswart/dv200-summative)
+
+---
+
+### My Skills
+
+**Front End:** HTML, CSS, JavaScript, React, Tailwind  
+**Back End:** Node.js, Express, Firebase, MongoDB  
+**Design & Tools:** Figma, Adobe Photoshop, Postman  
+**Deployment:** Heroku, Netlify, GitHub Pages  
+
+---
+
 
 ## 🛠️ Tech Stack
 <!-- Add your tech badges here -->
