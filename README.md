@@ -46,30 +46,31 @@ This stack reflects the skills I’ve applied across my **DV200 projects**, incl
 # The journey
 ### 2025 Portfolio Projects
 
-#### Term 1
+# Project 1
 ![Intro Banner](./assets/rooted.png)
 
 
   Rooted was created using HTML, CSS, JavaScript and react with dynamic data handling through API calls to fetch plant information. The app uses Chart.js to render interactive charts, allowing users to visualize and compare plant data easily. It’s a lightweight, front-end-focused web application designed for learning and exploring plant characteristics in a clear, visual way.  
   [View Repo](https://github.com/danaeswart/formative-one-rooted-final.git)
 
-#### Term 2
-- **Pop Shop** – Interactive website for a pop music festival, designed with playful UX and animations.  
-  [Repo](https://github.com/danaeswart/pop-shop)
+# Project 2
+![Intro Banner](./assets/hmu.png)
 
-- **Plant API Project** – Web app comparing plant data with interactive features and UI.  
-  [Repo](https://github.com/danaeswart/plant-api-project)
 
-#### Term 3
-- **Netflix-style Movie Project** – Movie info platform using API data, dynamic pages, and filtering.  
-  [Repo](https://github.com/danaeswart/netflix-clone)
+  Hit Me Up is a full-stack web application designed as a darkly humorous, fictional platform for exploring the world of an underground hitman-for-hire network. The app demonstrates secure user authentication, dynamic routing, and CRUD operations while presenting a unique, edgy UI/UX. Built with React, Node.js, Express, and MongoDB, the project combines creative design with practical, industry-relevant development practices, making it both a fun and educational showcase of full-stack web development.
 
-- **Focus App / Pace App** – Task scheduler and stress management app with gamified plant growth rewards.  
-  [Repo](https://github.com/danaeswart/pace-focus-app)
+  [View Repo](httphttps://github.com/Great-Minds-Technologies/hit-me-up.git)
 
-#### Term 4
-- **DV200 Summative / Graphic Narrative** – Critical essay on Visual Culture with creative illustrations.  
-  [Repo](https://github.com/danaeswart/dv200-summative)
+# Project 3
+![Intro Banner](./assets/bloomroom.png)
+
+
+
+Bloom Room is an online platform where art lovers can share, discover, and purchase art, as well as post inspiration for others in the community. The app was designed to connect creators and admirers, offering a space for creativity and collaboration.
+
+The goal of Bloom Room is to provide a user-friendly, interactive, and visually appealing platform that supports artists and enthusiasts alike.
+
+  [View Repo](https://github.com/danaeswart/The-Bloom-Room.git)
 
 ---
 
