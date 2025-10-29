@@ -2,49 +2,71 @@
 ![Intro Banner](./assets/gitIntro.png)
 
 
-# Hi, I'm Danae Swart
+# Danae Swart – Developer | UI/UX Designer | Artist
 Second-Year Development student at Open Window  
 Turning ideas into code, solving problems, and bringing creativity to life.  
 
 ---
-## 👩‍💻 About Me
+##  About Me
 
-Hi, I'm Danae Swart, a Second-Year Development student at Open Window. I love solving problems with code, designing intuitive user experiences, and creating projects that are both functional and visually engaging. My work spans web development, UX design, and interactive applications, with a focus on crafting solutions that make a real impact.  
+Hi! I'm Danae Swart, a Second-Year Development and UI/UX student at Open Window. I love solving problems with code while integrating my knowledge of UI/UX to create projects that are both functional and visually engaging.
+
+Beyond development, I’m also an artist who paints murals and anything creative that inspires me. I’m a big music lover and enjoy spending quality time with friends and family. 
+
+My work spans web development, UX/UI design, painting, interactive applications, with a focus on crafting solutions that actually work… most of the time  :)
 
 ---
 
-## 🛠️ My Skills & Tech Stack
+### Skills 
 
-I specialize in **front-end development, back-end integration, and interactive design**. Over the past year, I’ve worked on a variety of projects, from web apps and API-driven platforms to gamified productivity tools.  
+| Skill                  | Level       | Proficiency |
+|------------------------|------------|------------|
+| **UX Design**          | Strongest  | ██████████ 100% |
+| **Frontend Development** | Strong     | ████████░░ 75% |
+| **Backend Development**  | Competent  | ███████░░░ 70% |
+| **Testing**            | Developing | █████░░░░░ 53% |
+| **Painting**           | Strong     | █████████░ 90% |
+| **Dancing**            | Strong     | ████████░░ 80% |
+
+*Percentages represent relative skill levels, not absolute proficiency.*
+
+---
+
+## Tech Stack
+
+I specialize in **front-end development, back-end integration, and interactive design**. Over the past year, I have contributed to a range of projects, including web applications, API-driven platforms, and fully deployed digital ecosystems, gaining hands-on experience in building functional and cohesive systems from start to finish.
 
 **Languages & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![CORS](https://img.shields.io/badge/-CORS-000000?logo=cors&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 **Design & Tools:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 
 **Deployment & Hosting:**  
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHubPages-181717?logo=github&logoColor=white)
+![Aiven](https://img.shields.io/badge/-Aiven-FF6B35?logo=aiven&logoColor=white)
 
----
 
-This stack reflects the skills I’ve applied across my **DV200 projects**, including web development apps, API integrations, interactive UI/UX designs, and gamified productivity tools. I’m constantly learning and expanding my toolkit to stay current with industry practices.  
-
+This stack reflects the skills I’ve applied across my **DV200 projects**, including web development apps, API integrations and interactive UI/UX designs
 # The journey
-### 2025 Portfolio Projects
+####w 2025 Portfolio Projects
 
 # Project 1
 ![Intro Banner](./assets/rooted.png)
@@ -61,6 +83,7 @@ This stack reflects the skills I’ve applied across my **DV200 projects**, incl
 
   [View Repo](httphttps://github.com/Great-Minds-Technologies/hit-me-up.git)
 
+
 # Project 3
 ![Intro Banner](./assets/bloomroom.png)
 
@@ -74,35 +97,21 @@ The goal of Bloom Room is to provide a user-friendly, interactive, and visually 
 
 ---
 
-### My Skills
 
-**Front End:** HTML, CSS, JavaScript, React, Tailwind  
-**Back End:** Node.js, Express, Firebase, MongoDB  
-**Design & Tools:** Figma, Adobe Photoshop, Postman  
-**Deployment:** Heroku, Netlify, GitHub Pages  
-
----
+# Project 3
+![Intro Banner](./assets/bloomroom.png)
 
 
-## 🛠️ Tech Stack
-<!-- Add your tech badges here -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-<!-- Add more as needed -->
+
+Bloom Room is an online platform where art lovers can share, discover, and purchase art, as well as post inspiration for others in the community. The app was designed to connect creators and admirers, offering a space for creativity and collaboration.
+
+The goal of Bloom Room is to provide a user-friendly, interactive, and visually appealing platform that supports artists and enthusiasts alike.
+
+  [View Repo](https://github.com/danaeswart/The-Bloom-Room.git)
 
 ---
 
-## 🚀 Featured Projects
-<!-- Add your DV200 projects here -->
-- [Project Name](#) – Short description of the project.
-- [Project Name](#) – Short description of the project.
-- [Project Name](#) – Short description of the project.
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 <!-- Dynamic stats cards -->
 ![Danae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danaeswart&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaeswart&layout=compact)
