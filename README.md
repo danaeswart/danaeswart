@@ -98,8 +98,8 @@ The goal of Bloom Room is to provide a user-friendly, interactive, and visually 
 ---
 
 
-# Project 3
-![Intro Banner](./assets/bloomroom.png)
+# Project 4
+![Intro Banner](./assets/sport.png)
 
 
 
@@ -110,15 +110,27 @@ The goal of Bloom Room is to provide a user-friendly, interactive, and visually 
   [View Repo](https://github.com/danaeswart/The-Bloom-Room.git)
 
 ---
+##  GitHub Analytics & Activity
 
-##  GitHub Stats
-<!-- Dynamic stats cards -->
-![Danae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danaeswart&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaeswart&layout=compact)
+<div align="center">
+
+### 🔥 GitHub Stats Overview
+![Danae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danaeswart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+###  Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaeswart&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danaeswart&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+###  Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danaeswart&theme=tokyo-night&hide_border=true)
+
+
+</div>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: danaeswart@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/danaeswart](#)
-- 🎨 Portfolio: [figma.com/@danae](#)
+##  Contact Me
+- 📧 Email: 241022@virtualwindow.co.za
+
