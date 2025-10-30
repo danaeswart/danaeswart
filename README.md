@@ -102,12 +102,9 @@ The goal of Bloom Room is to provide a user-friendly, interactive, and visually 
 ![Intro Banner](./assets/sport.png)
 
 
+Sports League System is a comprehensive online platform where sports enthusiasts can explore, track, and manage international football competitions. The system connects teams, players, and fans from around the world, providing detailed match statistics, player profiles, and real-time tournament data. Users can browse teams from different countries, follow live matches, explore player contracts and statistics, and access broadcasting information.
 
-Bloom Room is an online platform where art lovers can share, discover, and purchase art, as well as post inspiration for others in the community. The app was designed to connect creators and admirers, offering a space for creativity and collaboration.
-
-The goal of Bloom Room is to provide a user-friendly, interactive, and visually appealing platform that supports artists and enthusiasts alike.
-
-  [View Repo](https://github.com/danaeswart/The-Bloom-Room.git)
+  [View Repo](https://github.com/Onthatile-Lesufi/DV200-Proctored-SQL-Exam.git)
 
 ---
 ##  GitHub Analytics & Activity
@@ -128,6 +125,14 @@ The goal of Bloom Room is to provide a user-friendly, interactive, and visually 
 
 
 </div>
+
+---
+
+### Acknowledgements
+
+I would like to sincerely thank **Open Window** for providing the learning environment and resources that made this project possible.  
+
+Special thanks to my **lecturers** for their guidance, support, and feedback throughout the development of this project.
 
 ---
 
