@@ -81,7 +81,7 @@ This stack reflects the skills I’ve applied across my **DV200 projects**, incl
 
   Hit Me Up is a full-stack web application designed as a darkly humorous, fictional platform for exploring the world of an underground hitman-for-hire network. The app demonstrates secure user authentication, dynamic routing, and CRUD operations while presenting a unique, edgy UI/UX. Built with React, Node.js, Express, and MongoDB, the project combines creative design with practical, industry-relevant development practices, making it both a fun and educational showcase of full-stack web development.
 
-  [View Repo](httphttps://github.com/Great-Minds-Technologies/hit-me-up.git)
+  [View Repo](https://github.com/Great-Minds-Technologies/hit-me-up)
 
 
 # Project 3
