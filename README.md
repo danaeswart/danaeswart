@@ -66,7 +66,7 @@ I specialize in **front-end development, back-end integration, and interactive d
 
 This stack reflects the skills I’ve applied across my **DV200 projects**, including web development apps, API integrations and interactive UI/UX designs
 # The journey
-####w 2025 Portfolio Projects
+#### 2025 Portfolio Projects
 
 # Project 1
 ![Intro Banner](./assets/rooted.png)
