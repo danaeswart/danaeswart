@@ -2,9 +2,6 @@
 ![Intro Banner](./assets/gitIntro.png)
 
 
-# Danae Swart
-### Developer · UI/UX Designer · Artist
-*Making cool sh\*t you didn't know you needed.*
 
 ---
 
