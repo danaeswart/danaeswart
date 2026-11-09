@@ -113,10 +113,10 @@ Everything I build works. Most of the time. :)
 
 <div align="center">
 
-![Danae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danaeswart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaeswart&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Danae's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=danaeswart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=danaeswart&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danaeswart&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=danaeswart&theme=tokyonight&hide_border=true)
 
 </div>
 
